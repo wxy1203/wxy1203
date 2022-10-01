@@ -1,1 +1,1 @@
-:fairy: This is Wang Xinyi's GitHub :fairy:
+:fairy: This is Xinyi's GitHub :fairy:
