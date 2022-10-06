@@ -1,4 +1,4 @@
-![MasterHead](https://whatifgaming.com/wp-content/uploads/2022/03/Open-A-New-Window.gif)
+![MasterHead](https://c.tenor.com/JlnMiIdvYIEAAAAC/banner.gif)
 <h1 align="center">Hi 👋, I'm Wang Xinyi</h1>
 <h3 align="center">A Year 2 Computer Science Student in NUS 🇸🇬</h3>
 <img align="right" alt="Coding" width="200" src="https://media.tenor.com/Lzr7afFB7xUAAAAd/microsoft-hackathon-hackathon.gif">
