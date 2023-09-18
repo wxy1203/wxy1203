@@ -4,7 +4,6 @@
 
 - 📫 How to reach me:  **e0817822@u.nus.edu**
 - 🔗 Here is my Linkedin: **www.linkedin.com/in/xinyi-wang1203**
-- 🧚‍♀️ Here is my Instagram: **https://www.instagram.com/wxywxy_1203/**
 
   
 Languages and Tools:
