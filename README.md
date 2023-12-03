@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Wang Xinyi 我叫王馨艺 🧚‍♀️</h1>
+<h1 align="center">Hi 👋, I'm Wang Xinyi 王馨艺 🧚‍♀️</h1>
 <h3 align="center">A Year 3 Computer Science Student in NUS 🇸🇬</h3>
 
 - 📫 How to reach me:  **e0817822@u.nus.edu**
