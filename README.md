@@ -7,3 +7,5 @@
 
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=wxy1203)
+
+[![Xinyi's GitHub stats](https://github-readme-stats.vercel.app/api?username=wxy1203)](https://github.com/wxy1203/github-readme-stats)
