@@ -1,5 +1,5 @@
 
-<h1 align="center"><a href="https://github.com/wxy1203">Hi 👋, I'm Wang Xinyi 王馨艺🧚‍♀️ </a></h1>
+<h1 align="center"><a href="https://wxy1203.github.io/">Hi 👋, I'm Wang Xinyi 王馨艺🧚‍♀️ </a></h1>
 <h3 align="center">A Year 3 Computer Science Student in NUS 🇸🇬</h3>
 
 - 🎀 Here is my personal website: **https://wxy1203.github.io/**
