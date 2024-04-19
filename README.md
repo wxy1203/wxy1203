@@ -7,6 +7,6 @@
 - 🔗 Here is my Linkedin: **www.linkedin.com/in/xinyi-wang1203**
 
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=wxy1203)
+![](https://komarev.com/ghpvc/?username=wxy1203&color=dc143c)
 
 [![Xinyi's GitHub stats](https://github-readme-stats.vercel.app/api?username=wxy1203)](https://github.com/wxy1203/github-readme-stats)
