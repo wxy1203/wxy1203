@@ -8,5 +8,3 @@
 
 
 ![](https://komarev.com/ghpvc/?username=wxy1203&color=fd9df5)
-
-[![Xinyi's GitHub stats](https://github-readme-stats.vercel.app/api?username=wxy1203)](https://github.com/wxy1203/github-readme-stats)
