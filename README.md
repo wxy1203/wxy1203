@@ -1,6 +1,6 @@
 
 <h1 align="center"><a href="https://wxy1203.github.io/">Hi 👋, I'm Wang Xinyi 王馨艺🧚‍♀️ </a></h1>
-<h3 align="center">A Year 3 Computer Science Student in NUS 🇸🇬</h3>
+<h3 align="center">Final Year Computer Science Undergraduate in NUS 🇸🇬</h3>
 
 - 🎀 Here is my personal website: **https://wxy1203.github.io/**
 - 📫 How to reach me:  **e0817822@u.nus.edu**
